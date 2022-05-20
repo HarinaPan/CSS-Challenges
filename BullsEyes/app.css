@@ -1,0 +1,31 @@
+.box {
+    background-image: radial-gradient(circle, 
+        #c39f76 0em, 
+        #c39f76 0.85em, 
+        #ffffff 0.85em,
+        #ffffff 1.75em,
+        #c39f76 1.75em,
+        #c39f76 2.7em,
+        #ffffff 2.7em,
+        #ffffff 3.55em,
+        #c39f76 3.55em,
+        #c39f76 4.5em,
+        #ffffff 4.5em
+    );
+    }
+    
+h1 {
+    color: red;
+}
+
+div {
+    height: 200px;
+    width: 200px;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
